@@ -21,9 +21,9 @@
   color: white; /* Menambahkan warna teks putih agar terlihat di atas background */
 }
 
-.hero-section, .slider-section {
+.slider-section {
   background-color: #ffd100; /* yellow */
-  padding: 15px;
+  padding: 70px;
 
 }
 
@@ -39,8 +39,8 @@
 
 /* slider */
 .slider-image {
-  width: 80%;
-  height: 80%;
+  width: 45%;
+  height: 380px;
   display: block;
   margin: 0 auto; /* Untuk mengatur gambar ke tengah */
   border-radius: 8px;
@@ -152,7 +152,8 @@
   }
 
   .slider-image {
-    width: 100%;
+    width: 80%;
+    height: 200px;
   }
 
   .teks-title {
@@ -344,7 +345,3 @@
     font-size: 22px;
   }
 }
-
-
-
-
