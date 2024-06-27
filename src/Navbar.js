@@ -39,7 +39,7 @@ function Navbar() {
       <img src={logo1} alt="Logo" className="logo" />
       <ul className="nav-links">
         <li onClick={() => scrollToSection("home")}>
-          <a href="#">Home</a>
+          <a href="#">Beranda</a>
         </li>
         <li onClick={() => scrollToSection("rayon")}>
           <a href="#">Rayon</a>
